@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Datos sensibles
+.env
+*.log
+
+# Datos grandes (los generás vos cuando corra el script)
+data/raw/*.csv
+!data/raw/.gitkeep
