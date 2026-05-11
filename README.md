@@ -115,7 +115,7 @@ jupyter notebook notebooks/
 
 ## 👤 Autor
 
-**Andres** — Junior Data Analyst en formación, con foco en finanzas e inversión.
+**Andres** — .
 
 - 🌐 Portfolio: [github.com/andres5493/Web-Portafolio](https://github.com/andres5493/Web-Portafolio)
 - 💼 LinkedIn: [ahttps://www.linkedin.com/in/andresdominguezroselli/](https://www.linkedin.com/in/andresdominguezroselli/)
